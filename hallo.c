@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("Hallo Welt!\n");
+	printf("Hallo Yokto-Welt!\n");
 	return 0;
 }
